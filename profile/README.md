@@ -9,6 +9,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 - 🎨 customize the bot on your server as you wish
 - 🇪🇸 choose between English and French or even Spanish for your server
 - 🚀 promote a server or a project with our advertising system
+- ...and much more
 
 ## Features
 - create different discussions in channels or threads, either public or private;
@@ -24,6 +25,14 @@ Manage multiple threaded discussions, each with its own context for consistent d
 - message application commands: summarize a message or ask to gpt;
 - configuration for number of discussions per member, archiving time, forcing a thread type...
 - and much more!
+
+## Links
+- [Top.gg](https://top.gg/bot/1058008641959112796)
+- [Support server](https://discord.com/invite/u8ehamrEea)
+- [Add the bot](https://discord.com/oauth2/authorize?client_id=1058008641959112796&permissions=395137379344&scope=bot%20applications.commands)
+- [Instagram](https://www.instagram.com/smartcord.ai)
+- [TikTok](https://www.tiktok.com/@smartcord.ai)
+- [Youtube](https://www.youtube.com/@smartcordai)
 
 ## Some images
 ### Chat feature<br/>
