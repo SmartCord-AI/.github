@@ -13,6 +13,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 
 ## Features
 - create different discussions in channels or threads, either public or private;
+- select a character for his/her discussion
 - discussions have their own context, and it is possible to reply to bot messages to put them in context.
 - Ad system (/ads info) to promote your projects or servers.
 - 2 ways to open discussions or generate an image: by command or with a button in a channel, all configurable;
