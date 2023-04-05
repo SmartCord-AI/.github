@@ -5,6 +5,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 
 ## The bot allows you to:
 - 💬 create discussions to talk with chatgpt, with a custom character and that keep in memory the context of the last messages in the chat
+- 🎙️ talk in voice with the bot
 - 🖼️ generate images
 - 🎨 customize the bot on your server as you wish
 - 🇪🇸 choose between English and French or even Spanish for your server
@@ -17,6 +18,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 - discussions have their own context, and it is possible to reply to bot messages to put them in context;
 - ad system (/ads info) to promote your projects or servers;
 - 2 ways to open discussions or generate an image: by command or with a button in a channel, all configurable;
+- voice chat;
 - generate images (with the possibility to deactivate it);
 - open/infinite discussion channels;
 - automatic archiving;
