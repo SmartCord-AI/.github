@@ -32,7 +32,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 ## Links
 - [Top.gg](https://top.gg/bot/1058008641959112796)
 - [Support server](https://discord.com/invite/u8ehamrEea)
-- [Add the bot](https://discord.com/oauth2/authorize?client_id=1058008641959112796&permissions=395137379344&scope=bot%20applications.commands)
+- [Add the bot](https://discord.com/api/oauth2/authorize?client_id=1058008641959112796&permissions=395140525072&scope=bot%20applications.commands)
 - [Instagram](https://www.instagram.com/smartcord.ai)
 - [TikTok](https://www.tiktok.com/@smartcord.ai)
 - [Youtube](https://www.youtube.com/@smartcordai)
