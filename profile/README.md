@@ -30,6 +30,7 @@ Manage multiple threaded discussions, each with its own context for consistent d
 - and much more!
 
 ## Links
+- [Website](https://smartcord.ai)
 - [Top.gg](https://top.gg/bot/1058008641959112796)
 - [Support server](https://discord.com/invite/u8ehamrEea)
 - [Add the bot](https://discord.com/api/oauth2/authorize?client_id=1058008641959112796&permissions=395140525072&scope=bot%20applications.commands)
