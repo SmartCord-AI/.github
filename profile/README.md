@@ -18,7 +18,9 @@ Manage multiple threaded discussions, each with its own context for consistent d
 - discussions have their own context, and it is possible to reply to bot messages to put them in context;
 - ad system (/ads info) to promote your projects or servers;
 - 2 ways to open discussions or generate an image: by command or with a button in a channel, all configurable;
+- use gpt-4;
 - voice chat;
+- speak with voice messages or summarise voice messages;
 - generate images (with the possibility to deactivate it);
 - open/infinite discussion channels;
 - automatic archiving;
@@ -44,6 +46,11 @@ Manage multiple threaded discussions, each with its own context for consistent d
 
 ### Custom characters feature<br/>
 <img src="https://cdn.baramex.me/smartcord/custom_character_feature.png"/><br/><br/>
+
+### Voice features<br/>
+<img src="https://cdn.baramex.me/smartcord/voice_chat.png"/>
+<img src="https://cdn.baramex.me/smartcord/voice_summarize.png"/>
+<img src="https://cdn.baramex.me/smartcord/voice_messages.png"/><br/><br/>
 
 ### Image generation feature<br/>
 <img src="https://cdn.baramex.me/smartcord/image generation feature.png"/><br/><br/>
