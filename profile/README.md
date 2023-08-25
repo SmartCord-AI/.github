@@ -57,8 +57,8 @@ Manage multiple threaded discussions, each with its own context for consistent d
 <img src="https://cdn.baramex.me/smartcord/features/context_commands.png"/><br/><br/>
 
 ### Functions feature<br/>
-<img src="https://cdn.baramex.me/smartcord/features/fonctions.png"/><br/><br/>
-<img src="https://cdn.baramex.me/smartcord/features/fonctions_1.png"/><br/><br/>
+<img src="https://cdn.baramex.me/smartcord/features/functions.png"/><br/><br/>
+<img src="https://cdn.baramex.me/smartcord/features/functions_1.png"/><br/><br/>
 
 ### Translate feature<br/>
 <img src="https://cdn.baramex.me/smartcord/features/translate.png"/><br/><br/>
