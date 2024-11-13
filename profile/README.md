@@ -6,7 +6,7 @@
 - [Website](https://smartcord.ai)
 - [Top.gg](https://top.gg/bot/1058008641959112796)
 - [Support server](https://discord.com/invite/u8ehamrEea)
-- [Add the bot](https://discord.com/oauth2/authorize?client_id=1058008641959112796&permissions=395140246544&integration_type=0&scope=bot+applications.commands)
+- [Add the bot](https://discord.com/oauth2/authorize?client_id=1058008641959112796)
 - [Instagram](https://www.instagram.com/smartcord.ai)
 - [TikTok](https://www.tiktok.com/@smartcord.ai)
 - [Youtube](https://www.youtube.com/@smartcordai)
